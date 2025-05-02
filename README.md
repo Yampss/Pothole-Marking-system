@@ -31,7 +31,7 @@ A webcam (for real-time detection)
 
 Steps
 
-Clone the repository:git clone https://github.com/[your-username]/pothole-detection-system.git
+Clone the repository:git clone https://github.com/Yampss/pothole-marking-system.git
 cd pothole-detection-system
 
 
