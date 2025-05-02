@@ -1,0 +1,250 @@
+2025-04-04 08:52:38,679 - INFO - Loaded 4 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 08:57:18,413 - INFO - Requested http://ipinfo.io/json
+2025-04-04 08:57:18,413 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:05:46,931 - INFO - Loaded 4 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:05:49,414 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:05:49,416 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:06:10,512 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:06:10,514 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:06:23,634 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:06:23,634 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:06:27,405 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:06:27,409 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:06:27,425 - INFO - Saved 5 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:06:29,454 - ERROR - Failed to send pothole location to API: 9.5858918, 76.9830082 - Status: 404
+2025-04-04 09:10:19,472 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:10:25,120 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:10:25,120 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:10:44,525 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:10:44,534 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:10:54,677 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:10:54,950 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:10:54,955 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:11:04,710 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:11:04,710 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:11:05,956 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:11:05,956 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:11:05,964 - INFO - Saved 6 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:11:08,089 - ERROR - Failed to send pothole location to API: 9.5858918, 74.983008 - Status: 404
+2025-04-04 09:12:27,062 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:12:27,368 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:12:27,368 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:12:27,384 - INFO - Saved 7 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:12:29,319 - ERROR - Failed to send pothole location to API: 9.5858918, 73.983008 - Status: 404
+2025-04-04 09:13:14,955 - INFO - Loaded 4 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:13:29,731 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:13:29,731 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:26:44,084 - INFO - Loaded 4 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:27:04,563 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:27:04,563 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:28:31,205 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:28:31,207 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:28:36,465 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:28:36,703 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:28:36,703 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:28:36,720 - INFO - Saved 5 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:28:38,008 - INFO - Successfully sent pothole location to API: 10.784703, 76.653145 - Response: {"id":8,"latitude":10.784703,"longitude":76.653145,"message":"Location saved successfully"}
+2025-04-04 09:32:54,649 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:36:53,935 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:36:53,938 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:38:07,383 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:38:34,723 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:38:39,303 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:38:39,303 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:40:34,407 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:40:34,407 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:40:38,568 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:40:38,856 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:40:38,862 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:40:38,870 - INFO - Saved 6 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:40:40,246 - INFO - Successfully sent pothole location to API: 9.152011, 79.445851 - Response: {"id":9,"latitude":9.152011,"longitude":79.445851,"message":"Location saved successfully"}
+2025-04-04 09:44:06,679 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:44:06,679 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:45:27,062 - INFO - Loaded 6 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:49:35,706 - INFO - Requested http://ipinfo.io/json
+2025-04-04 09:49:35,706 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 09:56:11,669 - INFO - Loaded 6 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 09:58:17,885 - INFO - Loaded 6 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:02:13,871 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:02:13,871 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:11:51,628 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:11:51,628 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:12:28,590 - ERROR - Error loading pothole locations: Expecting value: line 1 column 1 (char 0)
+2025-04-04 10:13:16,019 - INFO - Loaded 1 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:17:49,315 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:17:49,316 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:17:49,319 - INFO - Saved 2 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:17:50,508 - INFO - Successfully sent pothole location to API: 8.4855, 76.9492 - Response: {"id":8,"latitude":8.4855,"longitude":76.9492,"message":"Location saved successfully"}
+2025-04-04 10:36:54,878 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:36:54,880 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:38:10,683 - INFO - Loaded 1 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:41:20,117 - ERROR - Status code Unknown from http://ipinfo.io/json: ERROR - HTTPConnectionPool(host='ipinfo.io', port=80): Max retries exceeded with url: /json (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000280426C7BD0>: Failed to resolve 'ipinfo.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-04 10:41:20,119 - ERROR - Status code Unknown from http://ipinfo.io/json: ERROR - HTTPConnectionPool(host='ipinfo.io', port=80): Max retries exceeded with url: /json (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000280426C7D50>: Failed to resolve 'ipinfo.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-04 10:41:20,120 - WARNING - Failed to retrieve location, using default: [9.9189, 76.9383]
+2025-04-04 10:41:27,795 - INFO - Saved 2 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:41:32,225 - INFO - Successfully sent pothole location to API: 9.5860236, 76.983061 - Response: {"id":9,"latitude":9.5860236,"longitude":76.983061,"message":"Location saved successfully"}
+2025-04-04 10:44:36,959 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:44:36,960 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:44:53,821 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:44:53,821 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:46:24,971 - INFO - Loaded 2 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:47:04,069 - INFO - Loaded 2 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:47:52,491 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:47:52,492 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:48:40,705 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:48:41,659 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:48:41,660 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:49:25,309 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:49:25,310 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 10:50:12,229 - INFO - Loaded 2 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 10:52:14,177 - INFO - Requested http://ipinfo.io/json
+2025-04-04 10:52:14,179 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 21:02:22,066 - INFO - Loaded 2 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-04 21:08:49,309 - INFO - Requested http://ipinfo.io/json
+2025-04-04 21:08:49,309 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-04 21:15:41,855 - INFO - Requested http://ipinfo.io/json
+2025-04-04 21:15:41,856 - INFO - IP-based location: [8.4855, 76.9492]
+2025-04-08 20:17:36,074 - INFO - Loaded 1 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-08 20:17:49,369 - INFO - Requested http://ipinfo.io/json
+2025-04-08 20:17:49,369 - INFO - IP-based location: [11.248, 75.7804]
+2025-04-08 20:20:37,572 - INFO - Requested http://ipinfo.io/json
+2025-04-08 20:20:37,574 - INFO - IP-based location: [11.248, 75.7804]
+2025-04-08 20:20:49,788 - INFO - Requested http://ipinfo.io/json
+2025-04-08 20:20:49,789 - INFO - IP-based location: [11.248, 75.7804]
+2025-04-08 20:20:53,673 - INFO - Saved 2 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-08 20:20:53,817 - ERROR - Error sending pothole location to API: 11.248, 75.7804 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C28559F850>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-08 20:22:52,894 - ERROR - Status code Unknown from http://ipinfo.io/json: ERROR - HTTPConnectionPool(host='ipinfo.io', port=80): Max retries exceeded with url: /json (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001C2853CC150>: Failed to resolve 'ipinfo.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-08 20:22:52,898 - ERROR - Status code Unknown from http://ipinfo.io/json: ERROR - HTTPConnectionPool(host='ipinfo.io', port=80): Max retries exceeded with url: /json (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001C2464A0750>: Failed to resolve 'ipinfo.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-08 20:22:52,899 - WARNING - Failed to retrieve location, using default: [9.9189, 76.9383]
+2025-04-08 20:22:54,775 - INFO - Saved 3 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-08 20:22:54,778 - ERROR - Error sending pothole location to API: 9.5860236, 76.983061 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C25F43C290>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-08 20:24:32,893 - ERROR - Status code Unknown from http://ipinfo.io/json: ERROR - HTTPConnectionPool(host='ipinfo.io', port=80): Max retries exceeded with url: /json (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001C25EC569D0>: Failed to resolve 'ipinfo.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-08 20:24:32,896 - ERROR - Status code Unknown from http://ipinfo.io/json: ERROR - HTTPConnectionPool(host='ipinfo.io', port=80): Max retries exceeded with url: /json (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001C285601A90>: Failed to resolve 'ipinfo.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-08 20:24:32,896 - WARNING - Failed to retrieve location, using default: [9.9189, 76.9383]
+2025-04-09 07:42:39,147 - INFO - Loaded 3 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 07:43:12,754 - INFO - Using predefined exam location for testing.
+2025-04-09 07:46:08,268 - INFO - Loaded 3 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 07:46:28,967 - INFO - Requested http://ipinfo.io/json
+2025-04-09 07:46:28,967 - INFO - IP-based location: [11.248, 75.7804]
+2025-04-09 08:31:37,505 - INFO - Loaded 3 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 08:32:32,120 - INFO - Loaded 3 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 08:32:35,246 - INFO - Loaded 3 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 08:36:49,440 - INFO - Using predefined exam location for testing.
+2025-04-09 08:36:49,528 - INFO - Saved 4 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 08:36:49,622 - ERROR - Error sending Pothole location to API: 9.5862091, 76.9829277 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000179CFB399D0>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-09 08:43:31,342 - INFO - Loaded 4 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 08:48:37,486 - INFO - Using predefined exam location for testing.
+2025-04-09 08:48:37,573 - ERROR - Error sending Pothole location to API: 9.5862091, 76.9829277 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000179B7C35010>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-09 08:50:19,653 - INFO - Using predefined exam location for testing.
+2025-04-09 08:50:29,629 - INFO - Using predefined exam location for testing.
+2025-04-09 08:54:29,696 - INFO - Loaded 3 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 08:54:47,375 - INFO - Using predefined exam location for testing.
+2025-04-09 08:55:03,106 - INFO - Using predefined exam location for testing.
+2025-04-09 08:55:13,533 - INFO - Using predefined exam location for testing.
+2025-04-09 08:55:25,922 - INFO - Using predefined exam location for testing.
+2025-04-09 08:59:19,055 - INFO - Using predefined exam location for testing.
+2025-04-09 08:59:19,232 - ERROR - Error sending Pothole location to API: 9.5862091, 76.9829277 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000179CFB299D0>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-09 09:00:13,706 - INFO - Using predefined exam location for testing.
+2025-04-09 09:01:57,834 - INFO - Using predefined exam location for testing.
+2025-04-09 09:02:00,058 - INFO - Using predefined exam location for testing.
+2025-04-09 09:05:37,963 - INFO - Loaded 1 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:10:28,209 - INFO - Using predefined exam location for testing.
+2025-04-09 09:10:28,299 - INFO - Saved 2 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:10:28,394 - ERROR - Error sending Pothole location to API: 9.5862091, 76.9829277 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000179CFB699D0>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-09 09:13:21,996 - INFO - Using predefined exam location for testing.
+2025-04-09 09:13:30,415 - INFO - Using predefined exam location for testing.
+2025-04-09 09:13:33,935 - INFO - Using predefined exam location for testing.
+2025-04-09 09:13:33,940 - INFO - Saved 3 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:13:34,037 - ERROR - Error sending Pothole location to API: 9.5862091, 76.66928 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000179CFB203D0>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-09 09:16:31,940 - INFO - Loaded 3 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:16:34,391 - INFO - Using predefined exam location for testing.
+2025-04-09 09:16:39,615 - INFO - Using predefined exam location for testing.
+2025-04-09 09:16:43,699 - INFO - Using predefined exam location for testing.
+2025-04-09 09:16:43,703 - INFO - Saved 4 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:16:43,796 - ERROR - Error sending Pothole location to API: 9.5862091, 76.772928 - HTTPSConnectionPool(host='location-api-production-e673.up.railway.app', port=443): Max retries exceeded with url: /api/location (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000179CFB519D0>: Failed to resolve 'location-api-production-e673.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-09 09:16:47,637 - INFO - Loaded 4 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:17:45,445 - INFO - Using predefined exam location for testing.
+2025-04-09 09:18:37,700 - INFO - Loaded 1 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:18:43,977 - INFO - Using predefined exam location for testing.
+2025-04-09 09:18:47,146 - INFO - Using predefined exam location for testing.
+2025-04-09 09:18:47,146 - INFO - Saved 2 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:18:47,961 - INFO - Successfully sent Pothole location to API: 9.5862091, 76.9829277 - Response: {"id":11,"latitude":9.5862091,"longitude":76.9829277,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:19:24,052 - INFO - Using predefined exam location for testing.
+2025-04-09 09:19:24,303 - INFO - Using predefined exam location for testing.
+2025-04-09 09:19:24,309 - INFO - Saved 3 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:19:25,171 - INFO - Successfully sent Pothole location to API: 9.5862091, 76.9999928 - Response: {"id":12,"latitude":9.5862091,"longitude":76.9999928,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:23:24,306 - INFO - Using predefined exam location for testing.
+2025-04-09 09:23:25,162 - INFO - Successfully sent Pothole location to API: 9.5862091, 76.9829277 - Response: {"id":13,"latitude":9.5862091,"longitude":76.9829277,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:25:59,573 - INFO - Using predefined exam location for testing.
+2025-04-09 09:26:31,644 - ERROR - Error loading pothole locations: Expecting value: line 1 column 1 (char 0)
+2025-04-09 09:26:35,614 - INFO - Using predefined exam location for testing.
+2025-04-09 09:27:49,045 - INFO - Using predefined exam location for testing.
+2025-04-09 09:27:54,332 - INFO - Using predefined exam location for testing.
+2025-04-09 09:27:54,549 - INFO - Using predefined exam location for testing.
+2025-04-09 09:27:54,563 - INFO - Saved 1 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:27:55,656 - INFO - Successfully sent Pothole location to API: 9.590933, 76.976066 - Response: {"id":18,"latitude":9.590933,"longitude":76.976066,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:28:34,052 - INFO - Using predefined exam location for testing.
+2025-04-09 09:28:41,673 - INFO - Using predefined exam location for testing.
+2025-04-09 09:28:49,624 - INFO - Using predefined exam location for testing.
+2025-04-09 09:28:49,636 - INFO - Saved 2 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:28:50,413 - INFO - Successfully sent Pothole location to API: 9.588632, 76.980801 - Response: {"id":20,"latitude":9.588632,"longitude":76.980801,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:28:59,765 - INFO - Using predefined exam location for testing.
+2025-04-09 09:29:07,018 - INFO - Using predefined exam location for testing.
+2025-04-09 09:29:07,255 - INFO - Using predefined exam location for testing.
+2025-04-09 09:29:07,266 - INFO - Saved 3 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:29:08,365 - INFO - Successfully sent Pothole location to API: 9.588076200354196, 76.98149824196274 - Response: {"id":21,"latitude":9.588076200354196,"longitude":76.98149824196274,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:29:18,960 - INFO - Using predefined exam location for testing.
+2025-04-09 09:29:27,633 - INFO - Using predefined exam location for testing.
+2025-04-09 09:29:27,862 - INFO - Using predefined exam location for testing.
+2025-04-09 09:29:27,872 - INFO - Saved 4 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:29:28,647 - INFO - Successfully sent Pothole location to API: 9.589423552150002, 76.979246087229 - Response: {"id":22,"latitude":9.589423552150002,"longitude":76.979246087229,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:29:45,958 - INFO - Using predefined exam location for testing.
+2025-04-09 09:29:57,777 - INFO - Using predefined exam location for testing.
+2025-04-09 09:30:18,845 - INFO - Using predefined exam location for testing.
+2025-04-09 09:30:18,851 - INFO - Saved 5 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:30:19,741 - INFO - Successfully sent Pothole location to API: 9.58872627630256, 76.980451051296 - Response: {"id":23,"latitude":9.58872627630256,"longitude":76.980451051296,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:30:32,922 - INFO - Using predefined exam location for testing.
+2025-04-09 09:31:16,238 - INFO - Using predefined exam location for testing.
+2025-04-09 09:31:58,404 - INFO - Using predefined exam location for testing.
+2025-04-09 09:39:42,343 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:39:51,175 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 09:40:01,085 - INFO - Using sample point for testing: [9.58631, 76.983]
+2025-04-09 09:40:03,734 - INFO - Using sample point for testing: [9.5861, 76.9828]
+2025-04-09 09:40:04,993 - INFO - Using sample point for testing: [9.5864, 76.9829]
+2025-04-09 09:40:06,197 - INFO - Using sample point for testing: [9.586, 76.9831]
+2025-04-09 09:40:07,579 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 09:40:08,827 - INFO - Using sample point for testing: [9.58631, 76.983]
+2025-04-09 09:40:09,960 - INFO - Using sample point for testing: [9.5861, 76.9828]
+2025-04-09 09:40:10,976 - INFO - Using sample point for testing: [9.5864, 76.9829]
+2025-04-09 09:40:23,576 - INFO - Using sample point for testing: [9.586, 76.9831]
+2025-04-09 09:40:33,275 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 09:40:34,639 - INFO - Using sample point for testing: [9.58631, 76.983]
+2025-04-09 09:40:35,856 - INFO - Using sample point for testing: [9.5861, 76.9828]
+2025-04-09 09:40:37,088 - INFO - Using sample point for testing: [9.5864, 76.9829]
+2025-04-09 09:40:37,772 - INFO - Using sample point for testing: [9.586, 76.9831]
+2025-04-09 09:40:38,953 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 09:40:40,151 - INFO - Using sample point for testing: [9.58631, 76.983]
+2025-04-09 09:40:43,132 - INFO - Using sample point for testing: [9.5861, 76.9828]
+2025-04-09 09:40:51,742 - INFO - Using sample point for testing: [9.5864, 76.9829]
+2025-04-09 09:43:09,727 - INFO - Using sample point for testing: [9.586, 76.9831]
+2025-04-09 09:43:34,997 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 09:43:47,679 - INFO - Using sample point for testing: [9.58631, 76.983]
+2025-04-09 09:44:04,738 - INFO - Using sample point for testing: [9.5861, 76.9828]
+2025-04-09 09:44:33,899 - INFO - Using sample point for testing: [9.5864, 76.9829]
+2025-04-09 09:48:28,765 - INFO - Using sample point for testing: [9.586, 76.9831]
+2025-04-09 09:48:46,411 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 09:48:53,492 - INFO - Using sample point for testing: [9.58631, 76.983]
+2025-04-09 09:48:53,713 - INFO - Using sample point for testing: [9.5861, 76.9828]
+2025-04-09 09:48:53,719 - INFO - Saved 6 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:48:57,982 - INFO - Successfully sent Pothole location to API: 9.5861, 76.9828 - Response: {"id":27,"latitude":9.5861,"longitude":76.9828,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 09:50:24,502 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 09:54:12,396 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 10:16:30,715 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 11:03:38,596 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 11:59:50,936 - INFO - Loaded 5 pothole locations from C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 11:59:58,586 - INFO - Using sample point for testing: [9.5862091, 76.9829277]
+2025-04-09 12:00:09,403 - INFO - Saved 6 pothole locations to C:\Users\chris\pothole\trash\pothole_locations.json
+2025-04-09 12:00:10,376 - INFO - Successfully sent Pothole location to API: 9.5862091, 76.9829277 - Response: {"id":29,"latitude":9.5862091,"longitude":76.9829277,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 12:00:18,554 - INFO - Successfully sent Pothole location to API: 9.5862091, 76.9829277 - Response: {"id":30,"latitude":9.5862091,"longitude":76.9829277,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 12:00:26,573 - INFO - Successfully sent Pothole location to API: 9.5862091, 76.9829277 - Response: {"id":31,"latitude":9.5862091,"longitude":76.9829277,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
+2025-04-09 12:00:36,485 - INFO - Successfully sent Pothole location to API: 9.5862091, 76.9829277 - Response: {"id":32,"latitude":9.5862091,"longitude":76.9829277,"hazard_type":"Pothole","message":"Hazard location saved successfully"}
