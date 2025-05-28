@@ -1,4 +1,4 @@
-# Real-Time Pothole Detection and Mapping System
+# 🚀Real-Time Pothole Detection and Mapping System
 ## Overview
 This project is a real-time pothole detection and mapping system designed to identify potholes in video footage or live dashcam feeds, map their locations on OpenStreetMap, and log them for infrastructure monitoring. Leveraging AI-driven object detection with YOLOv8 and OpenVINO optimization, the system provides an interactive Streamlit dashboard for video uploads, live detection, and manual location management.
 Features
