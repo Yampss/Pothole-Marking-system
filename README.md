@@ -32,9 +32,11 @@ A webcam (for real-time detection)
 
 ## Steps
 
-Clone the repository:git clone https://github.com/Yampss/pothole-marking-system.git
+Clone the repository:
+```bash
+git clone https://github.com/Yampss/pothole-marking-system.git
 cd pothole-detection-system
-
+```
 
 Create a virtual environment and activate it:
 ```bash
