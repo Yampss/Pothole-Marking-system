@@ -70,9 +70,7 @@ pothole_locations.json: Stores detected pothole coordinates.
 
 #### Future Improvements
 
-Resolve API connectivity for real-time data syncing.
 Add support for additional hazard types beyond potholes.
-Implement GPS integration for accurate location tracking.
 Enhance UI with more visualization options.
 
 #### Contributing
