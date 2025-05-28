@@ -22,8 +22,8 @@ PyTorch (Torch): For model operations.
 Requests: For API integration.
 Logging: For debugging and performance tracking.
 
-![](Componenets/img1.png)
-![](Componenets/img2.png)
+![](Components/img1.jpg)
+![](Components/img2.jpg)
 
 
 ## Installation
